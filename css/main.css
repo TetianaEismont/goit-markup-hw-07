@@ -751,7 +751,7 @@ img {
 .modal__checkbox:checked + .modal__checkmark {
   border-color: #2196F3;
   background-color: #2196F3;
-  background-image: url(../../img/checkmark.svg);
+  background-image: url(.././img/checkmark.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-origin: border-box;
